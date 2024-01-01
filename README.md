@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Benmoussa</h1>
 <h3 align="center">FullStack developer Java/Spring/Angular</h3>
-<img align="right" alt"Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwMW84Zm5jYTE1amp3bzdtbWMwbWg4eHNxdWs2ZmdjeWZ1a2J6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
+<img align="right" alt"Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFwMW84Zm5jYTE1amp3bzdtbWMwbWg4eHNxdWs2ZmdjeWZ1a2J6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 
 - 🌱 I’m currently learning **Spring boot / MicroService / WebService / Docker/ Testing / Networking / Angular / MongoDB**
 
